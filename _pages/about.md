@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at the School of Computer Science and Engineering in Sun Yat-sen University, where I am advised by <a href="https://chenliang.tech/">Prof. Liang Chen</a>. I received a Master's and a Bachelor’s degree from South China Agricultural University (SCAU), respectively in 2021 and 2019. My research interests include: </p>
+I am a final-year Ph.D. student at the School of Computer Science and Engineering in Sun Yat-sen University, where I am advised by <a href="https://chenliang.tech/">Prof. Liang Chen</a>. I received a Master's and a Bachelor’s degree from South China Agricultural University (SCAU), respectively in 2021 and 2019. My research interests include:
 <ul>
 <li><p>Large Language Model</p>
 </li>
@@ -26,7 +26,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 <li><p>Trustworthy AI (e.g., Fairness, Reliability, etc.)</p>
 </li>
 </ul>
-<p><b>🔥🔥🔥 I am in the 2026 fall job market and actively seeking postdoctoral and industry opportunities. Feel free to reach out to me via email or WeChat (13416486396).</b></p>
+<p><b>🔥🔥🔥 I am in the 2026 fall job market and actively seeking postdoctoral and industry opportunities. Feel free to reach out to me via email (zhuych27@mail2.sysu.edu.cn) or WeChat (13416486396).</b></p>
 
 
 # 🔥 News
