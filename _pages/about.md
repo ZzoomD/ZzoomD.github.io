@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a final-year Ph.D. student at the School of Computer Science and Engineering in Sun Yat-sen University, where I am advised by <a href="https://chenliang.tech/">Prof. Liang Chen</a>. I received a Master's and a Bachelor’s degree from South China Agricultural University (SCAU), respectively in 2021 and 2019. My research interests include:
+I am a third-year Ph.D. student at the School of Computer Science and Engineering in Sun Yat-sen University, where I am advised by <a href="https://chenliang.tech/">Prof. Liang Chen</a>. I received a Master's and a Bachelor’s degree from South China Agricultural University (SCAU), respectively in 2021 and 2019. My research interests include:
 <ul>
 <li><p>Large Language Model</p>
 </li>
