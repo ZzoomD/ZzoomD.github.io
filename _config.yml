@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuchang Zhu"
 description              : "Ph.D. Student @ Sun Yat-sen University."
-url                      :  https://zzoomd.github.io/
+url                      : "https://zzoomd.github.io/"
 repository               : "ZzoomD/ZzoomD.github.io"
 google_scholar_stats_use_cdn : true
 
