@@ -116,7 +116,7 @@ I am a third-year Ph.D. student at the School of Computer Science and Engineerin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/diversity_arxiv25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning](https://arxiv.org/pdf/2506.18696)
+[What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning](https://arxiv.org/pdf/2506.19262)
 
 **Yuchang Zhu**\*, Qunshu Lin\*, Haotong Wei\*, Xiaolong Sun, Zixuan Yu, Minghao Liu, Zibin Zheng, Liang Chen
 
