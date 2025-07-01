@@ -44,7 +44,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 **Yuchang Zhu**, Huizhe Zhang, Bingzhe Wu, Jintang Li, Zibin Zheng, Peilin Zhao, Liang Chen, Yatao Bian
 
 [**Project**](https://github.com/BlueWhaleLab/DCScore) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel diversity evaluation method from the classification perspective for LLM-generated data. 
 </div>
 </div>
 
