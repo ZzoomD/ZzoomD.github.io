@@ -48,7 +48,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/fairinv_kdd24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes](https://arxiv.org/pdf/2406.13544)
