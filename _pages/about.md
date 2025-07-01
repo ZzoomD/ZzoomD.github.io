@@ -28,7 +28,7 @@ I am a third-year Ph.D. student at the School of Computer Science and Engineerin
 <li><p>Trustworthy AI (e.g., Fairness, Reliability, etc.)</p>
 </li>
 </ul>
-<p><b>🔥🔥🔥 I am in the 2026 fall job market and actively seeking postdoctoral and industry opportunities. Feel free to reach out to me via email (zhuych27@mail2.sysu.edu.cn) or WeChat (13416486396).</b></p>
+<p><b>🔥🔥🔥 I am in the 2026 fall job market and actively seeking postdoctoral and industry opportunities. Feel free to reach out to me via email (zhuych27@mail2.sysu.edu.cn) or WeChat (id: zyc1402348383).</b></p>
 
 # 💻 Internships
 - *2024.03 - 2025.05*, [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index), Machine Intelligence Group, Shenzhen, China.
