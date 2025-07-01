@@ -23,9 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuchang Zhu"
   avatar           : "images/yuchangzhu.jpg"
-  bio              : "Sun Yat-sen University"
+  chinese          : "朱裕昌"
+  bio              : 
   location         : "Guangzhou, China"
-  employer         :
+  employer         : "Sun Yat-sen University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=4ZUSDRoAAAAJ&hl=zh-CN&oi=ao"
   email            : "zhuych27@mail2.sysu.edu.cn"
