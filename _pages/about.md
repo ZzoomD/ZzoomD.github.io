@@ -37,7 +37,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 - *2025.05*: &nbsp;🎉🎉 One paper on diversity evaluation of LLM-generated data was accepted by **ICML 2025**.  
 
 # 📝 Publications 
-
+## Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dcscore_icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,7 +100,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 
 - [A smartphone-based six-dof measurement method with marker detector](https://ieeexplore.ieee.org/abstract/document/9869710); Yuchang Zhu, Yuan Huang, Yuanhong Li, Zhi Qiu, Zuoxi Zhao; IEEE Transactions on Instrumentation and Measurement (TIM), 2022.
 
-## Preprint
+## Preprints
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/sagif_arxiv25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -127,6 +127,9 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship (Top 0.4% nationwide).
+- *2021.06* Excellent Master’s Thesis Award, SCAU
+- *2019.06* Excellent Bachelor’s Thesis Award, SCAU
+- *2019.06* Excellent Undergraduate Graduate of SCAU (10/550)
+- *2016.09* National Endeavor Scholarship. 
 
