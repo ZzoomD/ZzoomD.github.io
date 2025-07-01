@@ -135,10 +135,9 @@ I am a third-year Ph.D. student at the School of Computer Science and Engineerin
 
 # 📄 Curriculum Vitae
 <div class="cv-container">
-  <p class="cv-update-date">Last updated: 2025-02-03</p>
+  <p class="cv-update-date">Last updated: 2025-07-01</p>
   <div class="download-container">
     <div class="download-item">
-      <div class="download-icon">📄</div>
       <div class="download-content">
         <h3>English CV</h3>
         <p>You can download a PDF copy of my English CV <a href="/files/(250630) AcademicCV_YuchangZhu.pdf" target="_blank">here</a>.</p>
@@ -146,7 +145,6 @@ I am a third-year Ph.D. student at the School of Computer Science and Engineerin
     </div>
 
 <div class="download-item">
-  <div class="download-icon">📝</div>
   <div class="download-content">
     <h3>中文简历</h3>
     <p>您可以在<a href="/files/朱裕昌-个人简历-0623.pdf" target="_blank">这里</a>下载我的中文简历PDF版本。</p>
