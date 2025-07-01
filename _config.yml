@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZzoomD" # e.g., "github username"
+  github           : "ZzoomD" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuchang-zhu-282aa2309/" # e.g., "linkedin username"
+  linkedin         : "Yuchang Zhu" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/richard_zhu27"
+  twitter          : "richard_zhu27"
   vine             :
   weibo            :
   xing             :
