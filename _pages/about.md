@@ -60,7 +60,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/fairsad_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fair Graph Representation Learning via Sensitive Attribute Disentanglement](https://arxiv.org/pdf/2405.07011)
@@ -72,7 +72,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='images/fairgkd_wsdm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The devil is in the data: Learning fair graph neural networks via partial knowledge distillation](https://arxiv.org/pdf/2311.17373)
@@ -84,7 +84,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2024</div><img src='images/fairagg_tcss24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fairagg: Toward fair graph neural networks via fair aggregation](https://ieeexplore.ieee.org/abstract/document/10516580)
@@ -99,7 +99,7 @@ I am a final-year Ph.D. student at the School of Computer Science and Engineerin
 - [A smartphone-based six-dof measurement method with marker detector](https://ieeexplore.ieee.org/abstract/document/9869710); Yuchang Zhu, Yuan Huang, Yuanhong Li, Zhi Qiu, Zuoxi Zhao; IEEE Transactions on Instrumentation and Measurement (TIM), 2022.
 
 ## Preprint
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/sagif_arxiv25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding](https://arxiv.org/pdf/2506.18696)
